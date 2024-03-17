@@ -18,4 +18,5 @@ VR 환경보호 게임 - 일상생활에서 에너지 절약을 실천하여 미
 
 
 5. 거실
+
 ![거실](https://github.com/luke1546/HappyEarth/assets/77063001/1bf642a3-797b-46df-a6e1-0918e524a8ae)
